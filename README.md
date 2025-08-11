@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 # Hi there, I'm Farrell Rahadian! 👋
 
 ## 💫 About Me
